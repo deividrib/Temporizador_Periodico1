@@ -29,3 +29,7 @@ Além disso, a cada **1 segundo**, o sistema imprime uma mensagem via **porta se
 ## 💡 Expansão
 
 Caso esteja utilizando o BitDogLab, é possível modificar o código para acionar um LED RGB nos GPIOs 11, 12 e 13 em vez dos LEDs individuais.
+
+## Link do video
+
+-https://www.youtube.com/shorts/ZT1EEmmuYk8
