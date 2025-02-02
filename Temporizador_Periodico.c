@@ -2,9 +2,9 @@
 #include "pico/stdlib.h"
 #include "hardware/timer.h"
 
-#define LED_VERMELHO 20 // GPIO para o LED vermelho
-#define LED_AMARELO 19  // GPIO para o LED amarelo
-#define LED_VERDE 18     // GPIO para o LED verde
+#define LED_VERMELHO 13  // GPIO para o LED vermelho
+#define LED_AMARELO 12   // GPIO para o LED amarelo
+#define LED_VERDE 11     // GPIO para o LED verde
 
 // Variável para armazenar o estado atual do semáforo
 int estado_atual = 0;
